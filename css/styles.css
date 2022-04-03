@@ -440,7 +440,7 @@ width: calc((100% -2 * 30px)/3);
     border-bottom: 1px solid var(--line-color);
     border-left: 1px solid var(--line-color);
     border-right: 1px solid var(--line-color); 
-    padding: 20px 24px;
+    padding: 20px 24px 20px 0;
     
 }    
    
